@@ -1,6 +1,6 @@
 # José Manuel Sánchez Muñoz
 
-Proactive Electronics Engineer skilled in C/C++ firmware for microcontrollers. Specialized in embedded systems and low-power circuit design. Passionate about innovation.
+Electronics Engineer skilled in programming firmware and designing hardware including analog, digital, and low-power circuits. Eager to contribute to innovative electronics projects with a collaborative and Enthusiastic Attitude.
 
 ## Education
 Instituto Tecnológico de Chihuahua, Chihuahua, Mexico                                  
